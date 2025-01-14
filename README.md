@@ -1,14 +1,12 @@
-# Shaine Aldrik Bacani
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shaine+Aldrik+Bacani!;" />
+</h1>
 
 ** Software Developer, UI/UX Designer ` ** 
 
 I'm an aspiring IT professional from the Philippines with a strong foundation in the WAMP stack (Windows, Apache, MySQL, PHP) and a growing interest in modern web technologies. I have experience in developing web applications using WAMP stack, and I am currently expanding my skills in other technology stacks. I am passionate about continuous learning and I stay committed to improving my technical skills and keeping up with industry trends to deliver effective and innovative solutions.
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shaine+Aldrik+Bacani!;" />
-</h1>
 
 
 <br/>
