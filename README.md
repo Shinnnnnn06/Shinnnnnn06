@@ -30,7 +30,7 @@ I'm an aspiring IT professional from the Philippines with a strong foundation in
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,bootstrap," />
-    <img src="https://skillicons.dev/icons?i=react,vite,bash,github,figma,git,heroku" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vite,bash,figma,github,git,heroku" /><br>
 </div>
 
 <br/>
