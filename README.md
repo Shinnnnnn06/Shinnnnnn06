@@ -13,7 +13,7 @@ I'm an aspiring IT professional from the Philippines with a strong foundation in
 
  
 <div align="center"> 
-  <a href="">
+  <a href="mailto:bacani.shainealdrik@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/shaine-aldrik-bacani-1497a4329/" target="_blank">
